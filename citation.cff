@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or the matching algorithms in your research, please cite the following paper."
+authors:
+  - family-names: "Wang"
+    given-names: "Wenjun"
+    orcid: "https://orcid.org/0000-0001-7781-9856" # Replace with your actual ORCID if different
+title: "Impedance Matching and Preamplifier Decoupling Calculator"
+version: 1.0.0
+doi: 10.1002/mrm.29489
+date-released: 2023-02-02
+url: "https://github.com/wenjunhj/impedance-matching-and-preamplifier-decoupling"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Wang"
+      given-names: "Wenjun"
+    - family-names: "Zhurbenko"
+      given-names: "Vitaliy"
+    - family-names: "Sánchez-Heredia"
+      given-names: "Juan Diego"
+    - family-names: "Ardenkjær-Larsen"
+      given-names: "Jan Henrik"
+  doi: "10.1002/mrm.29489"
+  journal: "Magnetic Resonance in Medicine"
+  month: 2
+  title: "Trade-off between preamplifier noise figure and decoupling in MRI detectors"
+  volume: 89
+  issue: 2
+  year: 2023
+  start: 859
+  end: 871
