@@ -110,8 +110,6 @@ For all the references, go to the [master reference list](./docs/References.md).
    - [Accepted version (free)](https://orbit.dtu.dk/files/323172640/JERM_2022_12_0147.pdf); 
    - [Printed version (requires subscription)](https://doi.org/10.1109/JERM.2023.3274742).
 
-# License
-
 ---------
 
 # 前放大器釋耦暨阻抗匹配網絡計算器（漢語）
